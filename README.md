@@ -49,6 +49,14 @@ The dataset for this paper has been obtained from the UCI Machine Learning Repos
 - ### Time Series
   - [Mauna_Loa_Atmospheric_CO2_Concentration_Forecasting_using_SARIMA.ipynb](https://github.com/Shantanu9326/Forecasting/blob/master/Mauna_Loa_Atmospheric_CO2_Concentration_Forecasting_using_SARIMA.ipynb): The purpose of this project is to perform data visualization to explore the relationship between Corruption and Human Development across various nations based on UN Human Development Report.  A scatter plot for the relationship between the 'Human Development Index' and the 'Corruption Perceptions Index' of countries.
   - 
+  
+  Prerequisites
+It would help if you know
+
+the basics of R
+a bit about Jupyter Notebooks
+a bit about the tidyverse package
+using the terminal/shell
 License
 ----
 MIT
