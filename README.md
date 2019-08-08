@@ -20,6 +20,12 @@
     - [Car Price Prediction using Ridge & Lasso Regression]():
     - [Customer Segmentation using RFM analysis]():
     - [Movie Recommendations using Recommender  Systems](): recommender systems are used to suggest movies or songs to users based on their interests.A micro project to build a recommendation system that makes movie recommendations based on user review similarities.
+    - [Minimizing Churn Rate through analysis of financial habits]():
+    - [Media+Company]():
+    - [Finance Project]():
+    - [Directing Customers to subscription through analysis of financial habits]():
+    - [911 calls]():
+    - [Predicting the likelihood of E-signing a loan based on financial history]():
     
 - ### Deep Learning
     - [Fashion-Class-Classification-using-MNIST-dataset](https://github.com/Shantanu9326/Credit-Card-Fraud-Detection/blob/master/Credit_Card_Fraud_Detection.ipynb): 
@@ -36,10 +42,14 @@
      - [Text Summarization]():
      - [Yelp Review Classification]():
      - [Latent Dirichlet Allocation on Articles]():
+     - [LDA_NMF_Assessment_Project]():
+     - [Chat bots with Python]():
 
 - ### Time Series
   - [Mauna Loa Atmospheric CO2 Concentration Forecasting using SARIMA](https://github.com/Shantanu9326/Forecasting/blob/master/Mauna_Loa_Atmospheric_CO2_Concentration_Forecasting_using_SARIMA.ipynb): 
   - [Miles Travelled using ARIMA Model]():
+  - [Predict Crime Rate in Chicago]():
+  - [Avocado Price Prediction]():
   
   
 
