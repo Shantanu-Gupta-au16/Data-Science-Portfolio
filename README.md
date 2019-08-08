@@ -55,10 +55,10 @@
 
 # Prerequisites
 
-the basics of R
-a bit about Jupyter Notebooks
-a bit about the tidyverse package
-using the terminal/shell
+- the basics of R
+- a bit about Jupyter Notebooks
+- a bit about the tidyverse package
+- using the terminal/shell
 
 # License
 
