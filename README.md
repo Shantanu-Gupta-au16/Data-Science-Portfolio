@@ -1,5 +1,5 @@
 # Data-Science-Portfolio:fire:
-![alt text](https://vroc.ai/VROC/media/images/AI%20in%20Action/Data-has-a-better-idea.jpg)
+![alt text](http://blog.milton.ai/content/images/2018/10/Data.jpg)
 ## Contents
 
 - ### R
