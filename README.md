@@ -26,9 +26,9 @@
     - [Media+Company]():A digital media company (similar to Voot, Hotstar, Netflix, etc.) had launched a show. Initially, the show got a good response, but then witnessed a decline in viewership. The company wants to figure out what went wrong.
     - [911 calls]():Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
     - [Predicting the likelihood of E-signing a loan based on financial history]():Lending companies work by analyzing the financial history of their loan applicants, and choosing whether or not the applicant is too risky to be given a loan. If the applicant is not, the company then determines the terms of the loan. To acquire these applicants, companies can organically receive them through their websites/apps. often with the help of advertisement campaigns. Other times. lending companies partner with peer-to-peer (P2P) lending marketplaces, in order to acquire leads of possible applicants. Some example marketplaces include Upstart. Lending Tree, and Lending club. In this project, we are going to asses the quality of the leads our company receives from these marketplaces.
-    :arrow_forward:**Market:** The target audience is the set of loan applicants who reached out through an intermediary marketplace.
- - :arrow_forward:**Product:** A loan.
- - :arrow_forward:**Goal:** Develop an model to predict for quality applicants. In this case study, quality applicants are those who reach a key part of the loan application process.
+ - **Market:** The target audience is the set of loan applicants who reached out through an intermediary marketplace.
+ - **Product:** A loan.
+ - **Goal:** Develop an model to predict for quality applicants. In this case study, quality applicants are those who reach a key part of the loan application process.
     - [Stock Market Analysis for Tech Stocks]():Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
     
 - ### Deep Learning
