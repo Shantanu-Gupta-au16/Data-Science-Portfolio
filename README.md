@@ -4,7 +4,7 @@
 
 ## Contents
 
-- ### R ![alt text](https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png)
+- ### R 
 
 	- [Data Visualization: Corruption and Human Development](): The purpose of this project is to perform data visualization to explore the relationship between Corruption and Human Development across various nations based on UN Human Development Report.  A scatter plot for the relationship between the 'Human Development Index' and the 'Corruption Perceptions Index' of countries.
 	- [Visualizing Inequalities in Life Expectancy](https://github.com/Shantanu9326/Data-Science-Portfolio/blob/master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners.ipynb): Do women live longer than men? How long? Does it happen everywhere? Is life expectancy increasing? Everywhere? Which is the country with the lowest life expectancy? Which is the one with the highest? In this Project, I will answer all these questions by manipulating and visualizing United Nations life expectancy data using ggplot2.The dataset can be found [here]() and contains the average life expectancies of men and women by country (in years). It covers four periods: 1985-1990, 1990-1995, 1995-2000, and 2000-2005.
