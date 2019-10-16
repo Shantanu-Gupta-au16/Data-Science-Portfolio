@@ -47,7 +47,7 @@
 
     - [MNIST Using PCA](https://github.com/Shantanu9326/Fashion-Class-Classification-using-MNIST-dataset/blob/master/MNIST_USING_PCA.ipynb) The global fashion industry is valued at three trillion dollars and accounts for 2 percent of the world's GDP the fashion industry is undergoing a dramatic transformation by adopting new computer vision,machine learning and deep learning techniques.
     
-    - [Deep Learning for Time Series](https://github.com/Shantanu9326/Data-Science-Portfolio/blob/master/Deep_Learning_for_Time_Series.ipynb)):Americans are driving more than ever before.Predicted and plotted the future traffic trends using the RNN & LSTM deep learning models.
+    - [Deep Learning for Time Series](https://github.com/Shantanu9326/Data-Science-Portfolio/blob/master/Deep_Learning_for_Time_Series.ipynb):Americans are driving more than ever before.Predicted and plotted the future traffic trends using the RNN & LSTM deep learning models.
     
 - ### Natural Language Processing 
      - [Named Entity Recognition](https://github.com/Shantanu9326/Text-Mining-Mini-Projects/blob/master/Named_Entity_Recognition.ipynb): Named entity recognition (NER)is probably the first step towards information extraction that seeks to locate and classify named entities in text into pre-defined categories such as the names of persons, organizations, locations, expressions of times, quantities, monetary values, percentages, etc. Named Entity Recognition, also known as entity extraction classifies named entities that are present in a text into pre-defined categories like “individuals”, “companies”, “places”, “organization”, “cities”, “dates”, “product terminologies” etc. It adds a wealth of semantic knowledge to your content and helps you to promptly understand the subject of any given text.
@@ -79,15 +79,7 @@
   
   - [Avocado Price Prediction]():Predict the avocado prices given Kaggle dataset.
   
-  
-
-# Prerequisites
-
-- the basics of R
-- a bit about Jupyter Notebooks
-- a bit about the tidyverse package
-- using the terminal/shell
-
+ 
 # License
 
 MIT
