@@ -40,8 +40,7 @@
     
     10. [Predicting the likelihood of E-signing a loan based on financial history](https://github.com/Shantanu9326/Data-Science-Portfolio/blob/master/Predicting_the_Likelihood_of_E_Signing_a_Loan_Based_on_Financial_History.ipynb):Lending companies work by analyzing the financial history of their loan applicants, and choosing whether or not the applicant is too risky to be given a loan. If the applicant is not, the company then determines the terms of the loan. To acquire these applicants, companies can organically receive them through their websites/apps. often with the help of advertisement campaigns. Other times. lending companies partner with peer-to-peer (P2P) lending marketplaces, in order to acquire leads of possible applicants. Some example marketplaces include Upstart. Lending Tree, and Lending club. In this project, we are going to asses the quality of the leads our company receives from these marketplaces.
     
-    11. [Stock Market Analysis for Tech Stocks]():Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
-    
+        
 - ### Deep Learning
     1. [Fashion-Class-Classification-using-MNIST-dataset](https://github.com/Shantanu9326/Data-Science-Portfolio/blob/master/Fashion_Class_Classification_using_MNIST_dataset.ipynb): Training AI machine learning models on the Fashion MNIST [dataset](https://github.com/zalandoresearch/fashion-mnist).Read the full article at [Image Recognition for Fashion with Machine Learning](http://www.primaryobjects.com/2017/10/23/image-recognition-for-fashion-with-machine-learning/)
 
@@ -57,17 +56,7 @@
      3. [Text Classification](https://github.com/Shantanu9326/Text-Mining-Mini-Projects/blob/master/Text_Classification.ipynb):
      
      4. [Text Generation with Neural Networks](https://github.com/Shantanu9326/Data-Science-Portfolio/blob/master/Text_Generation_with_Neural_Networks.ipynb):
-     
-     5. [Sentiment Analysis on Amazon Reviews]():
-     
-     6. [Restaurent Reviews](https://github.com/Shantanu9326/Sentiment-Analysis/blob/master/Restaurant_Reviews.ipynb):
-     
-     7. [Text Summarization]():
-     
-     8. [Yelp Review Classification]():
-     
-     9. [Latent Dirichlet Allocation on Articles]():
-          
+                 
 - ### Time Series
   1. [Mauna Loa Atmospheric CO2 Concentration Forecasting using SARIMA](https://github.com/Shantanu9326/Forecasting/blob/master/Mauna_Loa_Atmospheric_CO2_Concentration_Forecasting_using_SARIMA.ipynb): Trends and seasonal variation in time-series models.Atmospheric CO2 concentrations (measured in parts per million) derived from air samples collected at Mauna Loa Observatory, Hawaii. 
   
