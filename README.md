@@ -1,5 +1,5 @@
 # Data-Science-Portfolio:fire:
-![alt text](http://blog.milton.ai/content/images/2018/10/Data.jpg)
+![alt text](https://i0.wp.com/www.data-mania.com/blog/wp-content/uploads/2017/09/building-a-data-science-portfolio.png?resize=300%2C169&ssl=1)
 ## Contents
 
 - ### R
